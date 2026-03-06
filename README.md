@@ -49,26 +49,6 @@ Created a simple HTML web page for user input.
 
 Connected the frontend with the backend API to display predictions.
 
-🖥️ How to Run the Project
-
-Clone the repository
-
-git clone https://github.com/your-username/temperature-prediction-ml.git
-
-Navigate to the project folder
-
-cd temperature-prediction-ml
-
-Install dependencies
-
-pip install -r requirements.txt
-
-Run the backend server
-
-python app.py
-
-Open the HTML page in your browser and enter inputs to get predictions.
-
 📈 Future Improvements
 
 Add more weather features (humidity, rainfall, etc.)
